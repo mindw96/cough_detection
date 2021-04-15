@@ -1,0 +1,28 @@
+catalyst==20.12
+certifi==2020.12.5
+cycler==0.10.0
+joblib==1.0.0
+kiwisolver @ file:///D:/bld/kiwisolver_1610099949969/work
+matplotlib @ file:///D:/bld/matplotlib-suite_1605180495775/work
+numpy @ file:///D:/bld/numpy_1610324712085/work
+olefile @ file:///home/conda/feedstock_root/build_artifacts/olefile_1602866521163/work
+opencv-python==4.5.1.48
+packaging==20.9
+Pillow @ file:///C:/ci/pillow_1609786872067/work
+protobuf==3.14.0
+pyparsing==2.4.7
+python-dateutil==2.8.1
+PyYAML==5.4.1
+scikit-learn==0.24.1
+scipy==1.6.0
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1590081179328/work
+sklearn==0.0
+tensorboardX==2.1
+threadpoolctl==2.1.0
+torch==1.7.1
+torchaudio==0.7.2
+torchvision==0.8.2
+tornado @ file:///D:/bld/tornado_1610094878337/work
+tqdm==4.56.0
+typing-extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1602702424206/work
+wincertstore==0.2
